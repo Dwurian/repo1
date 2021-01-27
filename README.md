@@ -23,7 +23,7 @@ Now let's try
 (c) This statement is true \
 (d) Statement (b) is false 
 
-I actually haven't thought the game above through so there might not be an answer. Why bother! Logic is overrated anyways. Who needs logic when you can just **bolden** or *italicize* or even ***bolden and italicize*** my text as I wish! Look at me and how random I am! As I always say: 
+I actually haven't thought the game above through so there might not be an answer. Why bother! Logic is overrated anyways. Who needs logic when I can just **bolden** or *italicize* or even ***bolden and italicize*** my text as I wish! Look at me and how random I am! As I always say: 
 
 > Banana Bread is good. 
 
