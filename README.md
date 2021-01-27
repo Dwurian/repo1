@@ -49,7 +49,7 @@ Or embed an svg?
 
 ![equation](https://latex.codecogs.com/svg.latex?e^{i\pi}&plus;1=0 "Yay!")
 
-Not bad huh! Speaking of embedding, here's a picture that links to a video of red pandas to finish this file off. Cheers! 
+I like that font better. Speaking of embedding, here's a picture that links to a video of red pandas to finish this file off. Cheers! 
 
 [![red pandas](http://img.youtube.com/vi/bQTr5gL-lh4/0.jpg)](http://www.youtube.com/watch?v=bQTr5gL-lh4 "Trust me, it's very cute.")
 
