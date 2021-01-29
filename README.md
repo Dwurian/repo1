@@ -5,8 +5,8 @@ Sorry that the file name may seem a bit aggressive. If it scared you, I offer my
 1. Numbered lists
 2. I'm still trying out the numbered lists so bear with me
 3. There we go! The rule of three applies 
-   1. Oh look
-      1. A sub list
+   3.1. Oh look
+      3.1.1. A sub list
    2. How fun!
 
 Or we can do: 
